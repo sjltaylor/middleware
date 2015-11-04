@@ -1,4 +1,4 @@
-# Respond-Middleware
+# Middleware
 
 Middleware system for web daemons in Go. Depends only on `net/http`.
 
